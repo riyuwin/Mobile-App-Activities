@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_heading">Getting To Know You</string>
+    <string name="article_subtitle">IT 112 - Mobile Application</string>
+    <string name="article_text">What’s your name?
+    - My name is Apple Kimberly M. Calvario
+    \n\nTell me something about you.
+    - I am 21 years old, and an irregular student, I shift course from BEED to BSIT because I don\t see myself being a teacher in the future. It was my mother\s dream for me but I chose to follow the path of my own. I believe there will be a time where I have to decide for myself, and I didn\t regret doing it.
+    \n\nTell me about your strengths.
+    - I don\t give up easily, which makes me a strong person cause no matter what obstacle I face, i always try to find a way to face it. I can also be a risk taker, I am not afraid to try new things and gain experiences that will be beneficial for me in the future.
+    \n\n\n\n\n\n\n\n\n\n\n\n\nTell me what inspires you.
+        - Successful people who don't look aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadown on others and instead help them grow always inspires me. Also my family and people who support me. Now that I am working as a student assistant, the people i encounter at work also motivates and inspires me to do my best everyday.
+    </string>
+
+</resources>

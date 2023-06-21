@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2d5edf00880256182b396d8bd38b9156\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\accc4e200a9677bbaf986ce796c5a0e5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3809600cc41b9484e974d796f3750585\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1a6586475ed789cc0efee8917f6ba2c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\241160f5aa00e4435d62d64dd6af870b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b0b60fc664b323386a546fa20f2bf24c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\073ea989c6d5ac2bb2c626dc262bdb2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\39450051a88f7c145b794c636a08ce3e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a81108a657a05fe5325220dfe3751c4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\52924010730253cbcfbec98950b3910e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\25592133a262fef562ae344abc20d050\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8ce5b58327874ba94cda8f8cd0639d1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\accc4e200a9677bbaf986ce796c5a0e5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\accc4e200a9677bbaf986ce796c5a0e5\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:8:9-36
+	android:icon
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.android.hellosharedprefs.SharedPref
+ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:11:9-13:40
+	android:exported
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:12:13-39
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2d5edf00880256182b396d8bd38b9156\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\2d5edf00880256182b396d8bd38b9156\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\accc4e200a9677bbaf986ce796c5a0e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\accc4e200a9677bbaf986ce796c5a0e5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3809600cc41b9484e974d796f3750585\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3809600cc41b9484e974d796f3750585\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1a6586475ed789cc0efee8917f6ba2c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1a6586475ed789cc0efee8917f6ba2c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\241160f5aa00e4435d62d64dd6af870b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\241160f5aa00e4435d62d64dd6af870b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b0b60fc664b323386a546fa20f2bf24c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b0b60fc664b323386a546fa20f2bf24c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\073ea989c6d5ac2bb2c626dc262bdb2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\073ea989c6d5ac2bb2c626dc262bdb2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\39450051a88f7c145b794c636a08ce3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\39450051a88f7c145b794c636a08ce3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a81108a657a05fe5325220dfe3751c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1a81108a657a05fe5325220dfe3751c4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\52924010730253cbcfbec98950b3910e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\52924010730253cbcfbec98950b3910e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\25592133a262fef562ae344abc20d050\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\25592133a262fef562ae344abc20d050\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8ce5b58327874ba94cda8f8cd0639d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Acer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b8ce5b58327874ba94cda8f8cd0639d1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Acer\Downloads\HelloSharedPrefs\HelloSharedPrefs\app\src\main\AndroidManifest.xml

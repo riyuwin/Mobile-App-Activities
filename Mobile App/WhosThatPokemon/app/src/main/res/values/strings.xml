@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Who\'s That Pokemon</string>
+    <string name="title_activity_game_proper_level_two">game_proper_level_two</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="about_us">About US</string>
+    <string name="content_1">
+        It is an application that is intended to entertain its users. Different animals can be seen in this app. Guess it right; you\'ll hear the sound of it! As easy as it sounds, the extreme level makes it interesting, and it is indeed hard! Want to know what we are talking about? Come and play our app!</string>
+    <string name="content_2">
+        John Erwin Albos \n
+        Sean Michael Borje \n
+        Xenia Angelica Velacruz
+    </string>
+    <string name="content_3">
+        Feel free to contact us! \n\n
+        jsx_445@gmail.com \n
+        0956-691-0529 \n
+    </string>
+    <string name="player_name_edittext">Player</string>
+    <string name="mission_complete">Mission\nComplete!</string>
+    <string name="feeback">Enter your feedback</string>
+</resources>
